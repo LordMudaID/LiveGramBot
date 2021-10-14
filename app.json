@@ -23,10 +23,10 @@
       "description": "Get this value from my.telegram.org! Please do not steal"
     },
     "TG_BOT_TOKEN": {
-      "description": "Obtain a Telegram bot token by contacting @BotFather"
+      "description": "Buat bot Bari @BotFather,Salin Tokennya Ksini"
     },
     "AUTH_CHANNEL": {
-      "description": "List down the user IDs who should have permission to use and reply to users, seperated by SPACE. To get user ids, send /id command to Telegram @OwnErObOT"
+      "description": "Cari & Kirim Pesan @MissRose_Bot Lalu Ketik /id Lalu Isi Copy Paste Hasilnya Kesini"
     }
   },
   "addons": [{
