@@ -1,7 +1,7 @@
 {
   "name": "Live Gram Bot",
   "description": "Modular  Telegram Bot powered by @PyroGram!",
-  "logo": "https://telegra.ph/file/38892636183a19871ec14.jpg",
+  "logo": "https://telegra.ph/file/7c9c8674d198681eaf682.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -12,7 +12,7 @@
     "channel",
     "administrators"
   ],
-  "repository": "https://github.com/levina-lab/LiveGrambot",
+  "repository": "https://github.com/LordMudaID/LiveGramBot",
   "website": "https://telegram.dog/dlwrml",
   "success_url": "https://t.me/levinachannel",
   "env": {
